@@ -1,0 +1,2 @@
+MIRtoolbox1.3.4	_Tempo_Mean	_Tempo_Std	_Tempo_Slope	_Tempo_PeriodFreq	_Tempo_PeriodAmp	_Tempo_PeriodEntropy	
+czardas	160.621459	9.051687	0.786037	NaN	NaN	0.946753	
